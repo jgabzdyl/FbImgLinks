@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "FB Big Image Linker",
+    "version": "1.0",
+    "description": "Adds a link to big image to Facebook posts",
+    "author": "GabzdylJ",
+
+    "content_scripts": [
+    {
+        "matches": [
+          "*://*.facebook.com/*"
+        ],
+        "js": ["jquery-3.4.0.min.js","content.js"]
+    }
+],
+   "icons": {
+      "16": "lnk.png"
+    }
+}
