@@ -5,6 +5,8 @@ Well no more. If it has ploi, it now has a link to open it in new tab.
 
 Enjoy
 
+Also available on chrome store: https://chrome.google.com/webstore/detail/fb-big-image-linker/jjkmolehddeigikelpffappmeimeffkp
+
 # DISCLAIMER: 
 This is a quick and dirty hack that may or may not work. 
 It can also stop working at any time. 
